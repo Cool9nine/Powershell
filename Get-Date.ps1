@@ -1,2 +1,2 @@
-﻿Get-Date -Format g
+Get-Date -Format g
 Get-Date
